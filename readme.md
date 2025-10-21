@@ -1,3 +1,3 @@
 # Arthur's Cabin
 
-## React Sample Project
+React Cabin Booking App
