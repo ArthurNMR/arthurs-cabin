@@ -19,19 +19,19 @@ It provides a complete workflow for managing bookings, cabins, users, and admini
 
 ## Tech Stack:
 
-Routing: React Router
-Styling: Styled Components
-Remote State Management: React Query (TanStack Query)
-UI State Management: Context API
-Form Management: React Hook Form
-Backend & Auth: Supabase
+- Routing: React Router
+- Styling: Styled Components
+- Remote State Management: React Query (TanStack Query)
+- UI State Management: Context API
+- Form Management: React Hook Form
+- Backend & Auth: Supabase
 
 ## Other Libraries:
 
-React Icons: for icons
-React Hot Toasts: for notifications
-Recharts: for charts and analytics
-date-fns: for date utilities
+- React Icons: for icons
+- React Hot Toasts: for notifications
+- Recharts: for charts and analytics
+- date-fns: for date utilities
 
 ## Setup
 
